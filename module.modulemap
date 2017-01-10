@@ -1,0 +1,5 @@
+module Environ [system] {
+  header "include/environ.h"
+  link "c"
+  export *
+}
